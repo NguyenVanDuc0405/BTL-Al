@@ -1,5 +1,5 @@
 package alogrithm;
-
+// test commit
 public class Node implements Comparable<Node> {
     Point point;
     Node parent;
